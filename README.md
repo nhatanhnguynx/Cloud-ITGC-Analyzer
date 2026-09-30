@@ -10,3 +10,8 @@ As part of my journey into Tech Risk and IT Audit, I built this simple utility t
 Make sure you have Python installed, then simply test it with the mock data:
 ```bash
 python cloud_iam_auditor.py
+💡 The Audit Mindset (NhatAnhNguyen's Note)
+
+"You might notice this codebase is pretty short and simple. That's by design. Coming from an Audit perspective, the goal isn't to write a thousand lines of complicated code. In Tech Risk, true value means writing a precise, lightweight script that gets straight to the point: finding critical vulnerabilities in milliseconds"
+
+peace 💗 love ur guys
